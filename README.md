@@ -238,10 +238,10 @@ Em resumo:\
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**Josadaque Ferreira (J Dack)**\
-Desenvolvedor Back-end / Full Stack Júnior
+**Alura**\
+Jacqueline Oliveira
 
-GitHub: https://github.com/Josadack\
-LinkedIn: https://www.linkedin.com/in/josadaque-ferreira
+Iasmin Araújo
+
